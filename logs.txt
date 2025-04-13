@@ -1,4 +1,5 @@
-*   9a7a9a8 (HEAD -> master, origin/master, origin/HEAD) Merging branch
+* be88cb4 (HEAD -> master, origin/master, origin/HEAD) Final commit
+*   9a7a9a8 Merging branch
 |\
 | * 7195d96 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Finished sortTasksB
 yName() method

@@ -18,4 +18,7 @@ git merge 3-list-tasks-sorted-by-name
 git push origin master
 git fetch origin
 git merge origin/master
-gut pull origin master
+git pull origin master
+git add logs.txt 236056.txt
+git commit -m "Final commit"
+git push origin master
