@@ -1,2 +1,21 @@
 git fetch origin
-
+git checkout 1-remove-a-task-by-name
+git commit -am "Added task removal by name"
+git push origin 1-remove-a-task-by-name
+git pull origin 1-remove-a-task-by-name
+git branch
+git checkout 2-find-all-completed-tasks
+git commit -am "Added getCompletedTasks"
+git push origin 2-find-all-completed-tasks
+git pull origin 2-find-all-completed-tasks
+git checkout 3-list-tasks-sorted-by-name
+git commit -am "Finished sortTasksByName() method"
+git push origin 3-list-tasks-sorted-by-name
+git fetch origin
+git checkout master
+git pull origin master
+git merge 3-list-tasks-sorted-by-name
+git push origin master
+git fetch origin
+git merge origin/master
+gut pull origin master

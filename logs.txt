@@ -1,0 +1,13 @@
+*   9a7a9a8 (HEAD -> master, origin/master, origin/HEAD) Merging branch
+|\
+| * 7195d96 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Finished sortTasksB
+yName() method
+* | 0deb29c Merge pull request #11 from ilijahristov/2-find-all-completed-tasks
+|\|
+| * 9763a27 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Added getCompletedTas
+ks
+* | d2e45fa Merge pull request #10 from ilijahristov/1-remove-a-task-by-name
+|\|
+| * 09762a3 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Added task removal by name
+|/
+* e08fc11 Add starter code
